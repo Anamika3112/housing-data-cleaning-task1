@@ -21,7 +21,7 @@ This project performs data cleaning and preprocessing on a housing dataset using
 - Standardized binary values (yes/no)
 - Saved cleaned data to 'cleaned_housing_data.xls'
 
-## 📂 Files Included
+##  Files Included
 
 - 'Housing.xlsx.xls' — Original dataset
 - 'data_cleaning_task1.ipynb' — Jupyter Notebook with all steps
